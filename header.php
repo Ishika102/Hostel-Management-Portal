@@ -23,12 +23,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <meta name="keywords" content="Welfare Responsive web template, Bootstrap Web Templates, Flat Web Templates, Andriod Compatible web template, 
 Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" 
 		/>
-		
-    <link rel="stylesheet" type="text/css" href="engine1/style.css" media="screen" />
-	<style type="text/css">a#vlb{display:none}</style>
-	<script type="text/javascript" src="engine1/jquery.js"></script>
-    <script type="text/javascript" src="engine1/script.js"></script>	
-		
 </head>
 <body>
 <script src='../../../../ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script><script src="../../../../m.servedby-buysellads.com/monetization.js" type="text/javascript"></script>
@@ -91,16 +85,16 @@ ga('create', 'UA-30027142-1', 'w3layouts.com');
 				<!----start-main-header----->
 				<div class="main-header">
 					<div class="logo">
-						<a href="index.php"><img src="images/logo2.png" title="logo" /></a>
+						<a href="../index.php"><img src="images/logo2.png" title="logo" /></a>
 					</div>
 					<div class="top-nav">
 					<span class="menu"></span>
 						<ul>
-							<li><a href="index.php">Home</a></li>
-							<li class="active"><a href="about.php">About</a></li>
-							<li><a href="sports/index.php">Sports</a></li>
-							<li><a href="Student_login/blog.php">Student</a></li>
-							<li><a href="contact.php">Contact</a></li>
+							<li><a href="../index.php">Home</a></li>
+							<li class="active"><a href="../about.php">About</a></li>
+							<li><a href="../sports/index.php">Sports</a></li>
+							<li><a href="blog.php">Student</a></li>
+							<li><a href="../contact.php">Contact</a></li>
 							<div class="clearfix"> </div>
 						</ul>
 					</div>

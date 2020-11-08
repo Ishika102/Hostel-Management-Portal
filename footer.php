@@ -3,11 +3,11 @@
 				 <div class="col-md-3 ftr_navi ftr">
 					 <h3>NAVIGATION</h3>
 					 <ul>
-						 <li><a href="index.php">Home</a></li>
-						 <li><a href="about.php">About</a></li>
-						 <li><a target="_blank" href="admin_login/webpages">Admin</a></li>
-						 <li><a href="Student_login/blog.php">Student</a></li>
-						 <li><a href="contact.php">Contact</a></li>
+						 <li><a href="../index.php">Home</a></li>
+						 <li><a href="../about.php">About</a></li>
+						 <li><a href="../admin_login/webpages">Admin</a></li>
+						 <li><a href="blog.php">Student</a></li>
+						 <li><a href="../contact.php">Contact</a></li>
 					 </ul>
 				 </div>
 				 <div class="col-md-3 ftr_navi ftr">
@@ -28,7 +28,7 @@
 					  <a href="mailto:mail@mlampah.com">www.example.com</a>
 				 </div>
 				 <div class="col-md-3 ftr-logo">
-					 <a href="index-2.php"><img src="images/frt-lg.png" alt=""/></a>
+					 <a href="index.php"><img src="images/frt-lg.png" alt=""/></a>
 					 <?php /*
 					 <p>&copy; 2015 Welfare. All Rights Reserved Design by <a href="http://w3layouts.com/">W3layouts</a> </p> */?>
 				 </div>
